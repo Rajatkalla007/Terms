@@ -69,7 +69,7 @@
     <p>We may update these Terms occasionally. We will post the updated Effective Date at the top of this page. Continued use of the Services after changes constitutes acceptance of the updated Terms.</p>
 
     <h2>14. Contact</h2>
-    <p>Questions about these Terms should be sent to: <a href="mailto:[rajatkalla07@gmail.com]">[rajatkalla07@gmail.com]</a> or mailed to: <br/>
+    <p>Questions about these Terms should be sent to: <a href="mailto:[rajatkalla007@gmail.com]">[rajatkalla007@gmail.com]</a> or mailed to: <br/>
     <strong>[Drako Prime]</strong><br/>
     [220]<br/>
     [Doon Valley, UK, 248005]<br/>
